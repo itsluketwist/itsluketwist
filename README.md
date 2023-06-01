@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img src="https://stats.quine.sh/itsluketwist/github" alt="Luke Twist's GitHub stats" width="932px">
+[![itsluketwist's GitHub | Languages Over Time](https://stats.quine.sh/itsluketwist/languages-over-time?theme=light)](https://quine.sh)
