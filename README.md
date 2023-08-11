@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently working as a Senior Software Engineer at [Quine](https://github.com/quine-sh) 🚀
+
 <!--
 **itsluketwist/itsluketwist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![itsluketwist's GitHub | Languages Over Time](https://stats.quine.sh/itsluketwist/languages-over-time?theme=light)](https://quine.sh)
+[![itsluketwist's GitHub | Stats](https://stats.quine.sh/itsluketwist/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itsluketwist)
+
+[![itsluketwist's GitHub | Languages Over Time](https://stats.quine.sh/itsluketwist/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itsluketwist)
