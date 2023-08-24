@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![itsluketwist's GitHub | Stats](https://stats.quine.sh/itsluketwist/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itsluketwist)
-
-[![itsluketwist's GitHub | Dependencies](https://stats.quine.sh/itsluketwist/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itsluketwist)
+[![itsluketwist's GitHub | Stats](https://stats.quine.sh/itsluketwist/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itsluketwist) [![itsluketwist's GitHub | Dependencies](https://stats.quine.sh/itsluketwist/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itsluketwist)
