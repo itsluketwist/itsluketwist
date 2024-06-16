@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working as a Senior Software Engineer at [Quine](https://github.com/quine-sh) 🚀
+Currently working as a Senior Backend Tech-Lead at [Lantern](https://github.com/lanternai) 🏮
 
 <!--
 **itsluketwist/itsluketwist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
