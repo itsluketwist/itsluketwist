@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Currently working as a Senior Backend Tech-Lead at [Lantern](https://github.com/lanternai) 🏮
+Currently studying for a PhD in [Safe & Trusted AI](https://safeandtrustedai.org/) 
+at [King's College London](https://www.kcl.ac.uk/)!
 
 <!--
 **itsluketwist/itsluketwist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
